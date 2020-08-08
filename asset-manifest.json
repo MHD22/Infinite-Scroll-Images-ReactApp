@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Infinite-Scroll-Images-ReactApp/static/css/main.2c06783f.chunk.css",
+    "main.js": "/Infinite-Scroll-Images-ReactApp/static/js/main.babfad6d.chunk.js",
+    "main.js.map": "/Infinite-Scroll-Images-ReactApp/static/js/main.babfad6d.chunk.js.map",
+    "runtime-main.js": "/Infinite-Scroll-Images-ReactApp/static/js/runtime-main.78f0be2e.js",
+    "runtime-main.js.map": "/Infinite-Scroll-Images-ReactApp/static/js/runtime-main.78f0be2e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Infinite-Scroll-Images-ReactApp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cad495d9.chunk.js": "/Infinite-Scroll-Images-ReactApp/static/js/2.cad495d9.chunk.js",
+    "static/js/2.cad495d9.chunk.js.map": "/Infinite-Scroll-Images-ReactApp/static/js/2.cad495d9.chunk.js.map",
+    "index.html": "/Infinite-Scroll-Images-ReactApp/index.html",
+    "precache-manifest.8afa75c1fe49181a45a708acb43bb33f.js": "/Infinite-Scroll-Images-ReactApp/precache-manifest.8afa75c1fe49181a45a708acb43bb33f.js",
+    "service-worker.js": "/Infinite-Scroll-Images-ReactApp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Infinite-Scroll-Images-ReactApp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2c06783f.chunk.css.map": "/Infinite-Scroll-Images-ReactApp/static/css/main.2c06783f.chunk.css.map",
+    "static/js/2.cad495d9.chunk.js.LICENSE.txt": "/Infinite-Scroll-Images-ReactApp/static/js/2.cad495d9.chunk.js.LICENSE.txt",
+    "static/media/inf.svg": "/Infinite-Scroll-Images-ReactApp/static/media/inf.228a830f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f0be2e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cad495d9.chunk.js",
+    "static/css/main.2c06783f.chunk.css",
+    "static/js/main.babfad6d.chunk.js"
+  ]
+}
